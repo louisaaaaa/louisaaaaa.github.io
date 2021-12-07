@@ -90,20 +90,19 @@ Xin Yi, Ziqi Pan, Shuning Zhang, Fengyan Han, <b>Louisa Shi</b>, Hewu Li, Yuanch
 <b>Under Review.</b>
 
 ### SCHOLARSHIPS & HONORS
-<b>
-Chinese Government Scholarship	2020, 2021 				
+#### Chinese Government Scholarship	2020, 2021 				
 
-Beijing Government Scholarship	2018 					</b>								
+#### Beijing Government Scholarship	2018 													
 
 ### LEADERSHIP AND ACTIVITIES
-##### Tsinghua Red Cross | Volunteer group member                                                
+#### Tsinghua Red Cross | Volunteer group member                                                
 Feb 2019 - Present
 •	Help recruit volunteers for each blood drive, in charge of onsite volunteers.
 •	Donated blood five times.
-##### Women basketball team of Computer science and technology | Captain                      
+#### Women basketball team of Computer science and technology | Captain                      
 Aug 2019 - July 2020
 •	Recruit members, organize training sessions, purchase supplies. 
-##### Books2China | Co-chair														   
+#### Books2China | Co-chair														   
 Jun 2017 – Jun 2018
 •	Raised funds to purchase books and support libraries to the children of migrant workers in China.
 •	Hosted Summer camps for the kids from 2015 to 2019.
