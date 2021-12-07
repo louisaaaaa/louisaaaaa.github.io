@@ -1,17 +1,15 @@
-## Louisa May Shi
+# Louisa May Shi
 
-Louisa May Shi
-She/her/hers  nationality: United States
-Tsinghua University, Haidian District, Beijing, 100084
-E-mail:luo_ys18@mails.tsinghua.edu.cn | Contact: (+86) 13811508075
 
-EDUCATION      
-Department of Computer Science and Technology, Tsinghua University (THU)       Aug 2018 - Jul 2022
-Bachelor of Engineering in Computer Science 
-Core Courses: Data Structures, Computer Organization, Theory of Computer Network, Software Engineering, 
-Operating Systems, Computer Architecture, Human Computer Interaction Theory and Technology, Principles and Practice of Compiler Construction
+<center> louisa.shi@gmail.com | luo_ys18@mails.tsinghua.edu.cn </center>
+<br />
+<div align = center>
+<img src ="/files/IMG_3689.jpg" width = "200" >
+ <!-- ![image](/files/IMG_3689.jpg) -->
+</div>
+<br />I am a senior undergraduate student in computer science at Tsinghua University, currently working in the Pervasive Human Computer Interaction Laboratory.
 
-RESEARCH EXPERIENCE
+###RESEARCH EXPERIENCE
 Task-focused, Multimodal, Mixed-initiative Virtual Assistant Apps                  July 2021 – Present
 Advisor: James A. Landay, Professor, Dept. Computer Science, Stanford University
 •	Proposed a new design of an assistant that supports flexible goal manipulation and step-wise adjustment
@@ -40,7 +38,7 @@ Aesthetic Modeling Based on Deep Learning                                    Jul
 Advisor: Jia Jia, Associate Professor, Dept. Computer Science & Technology, THU
 •	Discussed how different parameters and structures in Deep Learning could affect the outcome of the modeling between aesthetic styles and clothing features. By comparison chose the best parameters of the model and analyzed different styles of different categories’ clothing in shopping websites. 
 
-PUBLICATIONS
+###PUBLICATIONS
 [1] Xin Yi, Louisa Shi, Fengyan Han, Shuning Zhang, Yukang Yan, Ziqi Pan, Hewu Li, Yuanchun Shi. Squeez'In: Private Authentication on Capacitive Sensing Smartphones. Submitted to ACM CHI Conference on Human Factors in Computing Systems (CHI 2022) Under Review.
 [2] Xin Yi, Ziqi Pan, Shuning Zhang, Fengyan Han, Louisa Shi, Hewu Li, Yuanchun Shi. Squeez'In: Private Authentication on Capacitive Sensing Smartphones. Submitted to ACM CHI Conference on Human Factors in Computing Systems (CHI 2022) Under Review.
 
@@ -48,7 +46,7 @@ SCHOLARSHIPS & HONORS
 Chinese Government Scholarship (For outstanding international students)						2020, 2021
 Beijing Government Scholarship																2018
 
-LEADERSHIP AND ACTIVITIES
+###LEADERSHIP AND ACTIVITIES
 Tsinghua Red Cross | Volunteer group member                                                Feb 2019 - Present
 •	Help recruit volunteers for each blood drive, in charge of onsite volunteers.
 Women basketball team of Computer science and technology | Captain                      Aug 2019 - July 2020
