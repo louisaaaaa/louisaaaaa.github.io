@@ -12,7 +12,7 @@ contacts: louisa.shi@gmail.com | luo_ys18@mails.tsinghua.edu.cn
 
 ### RESEARCH EXPERIENCE
 
-##### Task-focused, Multimodal, Mixed-initiative Virtual Assistant Apps  
+#### Task-focused, Multimodal, Mixed-initiative Virtual Assistant Apps  
 July 2021 – Present   
 <div align = center>
 <img src ="/files/cooking.png" >
@@ -20,11 +20,12 @@ July 2021 – Present
 </div> 
 ```            
 Advisor: James A. Landay, Professor, Dept. Computer Science, Stanford University
-•	Proposed a new design of an assistant that supports flexible goal manipulation and step-wise adjustment
-•	Conducted a pilot survey study with 15 people, and asked users questions regarding the common adaptations they do while following a recipe.
-•	Working on implementing the system into a Unity 3D environment using VR headsets.
+• Proposed a new design of an assistant that supports flexible goal manipulation and step-wise adjustment
+• Conducted a pilot survey study with 15 people, and asked users questions regarding the common adaptations they do while following a recipe.
+• Working on implementing the system into a Unity 3D environment using VR headsets.
 ```
-##### Crossover: Facilitating One-Handed Operations on Smartphones through Front-Side Hybrid Interaction
+
+#### Crossover: Facilitating One-Handed Operations on Smartphones through Front-Side Hybrid Interaction
 April 2021 – Sep 2021
 <div align = center>
 <img src ="/files/crossover.GIF" width = "200" >
@@ -32,12 +33,13 @@ April 2021 – Sep 2021
 </div>
 ```
 Advisor: Yuanchun Shi, Professor, Dept. Computer Science & Technology, THU
-•	Proposed Crossover, a technique that enabled efficient one-handed text editing on smartphones through front-side hybrid interaction. 
-•	Modelled user’s interaction behavior when performing precise pointing tasks and menu selection tasks in front-side hybrid interaction and evaluated the learning and performance of Crossover, providing possible design implications for smartphone interaction designers. 
-•	Followed an iterative design process, first determining the side interaction strategy through user study, and chose a two-dimensional strategy due to high performance and user preference. 
-•	Examined the user’s interaction behavior and improved Crossover by using front-side hybrid, confirmed that the hybrid method has high performance 
+• Proposed Crossover, a technique that enabled efficient one-handed text editing on smartphones through front-side hybrid interaction. 
+• Modelled user’s interaction behavior when performing precise pointing tasks and menu selection tasks in front-side hybrid interaction and evaluated the learning and performance of Crossover, providing possible design implications for smartphone interaction designers. 
+• Followed an iterative design process, first determining the side interaction strategy through user study, and chose a two-dimensional strategy due to high performance and user preference. 
+• Examined the user’s interaction behavior and improved Crossover by using front-side hybrid, confirmed that the hybrid method has high performance 
 ```
-##### Squeez'In: Private Authentication on Capacitive Sensing Smartphones 				
+
+#### Squeez'In: Private Authentication on Capacitive Sensing Smartphones 				
 April 2021 – Sep 2021
 <div align = center>
 <img src ="/files/squeeze.png" >
@@ -45,10 +47,11 @@ April 2021 – Sep 2021
 </div>
 ```
 Advisor: Yuanchun Shi, Professor, Dept. Computer Science & Technology, THU
-•	Verified that inferring touch pressure from capacitive touchscreen data is achievable, which allows us to use capacitive data to distinguish the intensity users squeeze the phone.
-•	Conducted two user studies to examine user's subjective preference and motion control ability for designing squeezing patterns. Evaluated Squeez'In with traditional authentication methods, and proved that it has competitive speed and accuracy compared with pin code and gesture, with significantly higher preference score in terms of privacy, security and generalizability.
+• Verified that inferring touch pressure from capacitive touchscreen data is achievable, which allows us to use capacitive data to distinguish the intensity users squeeze the phone.
+• Conducted two user studies to examine user's subjective preference and motion control ability for designing squeezing patterns. Evaluated Squeez'In with traditional authentication methods, and proved that it has competitive speed and accuracy compared with pin code and gesture, with significantly higher preference score in terms of privacy, security and generalizability.
 ```
-##### Indoor and Outdoor Navigation System Using HMD                             
+
+#### Indoor and Outdoor Navigation System Using HMD                             
 Nov 2020 – Dec 2020
 <div align = center>
 <img src ="/files/navi.GIF"  >
@@ -56,22 +59,24 @@ Nov 2020 – Dec 2020
 </div>
 ```
 Advisor: Yuanchun Shi, Professor, Dept. Computer Science & Technology, THU
-•	Built a platform in unity 3D with indoor and outdoor scenes.
-•	Realized AR visualization of the current path with an arrow to point the direction and highlighting the road panels, displayed the absolute bearing of the destination using a mini-map, a light beam, and an arrow.
-•	Connected the platform to Oculus quest 2 and found 12 participants. Tested out different combinations of n	avigation methods and estimated the efficiency of different methods.
+• Built a platform in unity 3D with indoor and outdoor scenes.
+• Realized AR visualization of the current path with an arrow to point the direction and highlighting the road panels, displayed the absolute bearing of the destination using a mini-map, a light beam, and an arrow.
+• Connected the platform to Oculus quest 2 and found 12 participants. Tested out different combinations of n	avigation methods and estimated the efficiency of different methods.
 ```
-##### Intelligent Access Control System Based on Face Recognition                      
+
+#### Intelligent Access Control System Based on Face Recognition                      
 Sep 2020 - Dec 2020
 ```
 Advisor: Dan Pei, Associate Professor, Dept. Computer Science & Technology, THU
-•	Built an access control system which is able to use a phone application to take and upload a photo to the database, then users can use a camera attached to the embedded server and see if the face matches data from the database. Also includes a web server to manage all user information. 
+• Built an access control system which is able to use a phone application to take and upload a photo to the database, then users can use a camera attached to the embedded server and see if the face matches data from the database. Also includes a web server to manage all user information. 
 ```
-##### Aesthetic Modeling Based on Deep Learning                                    
+
+#### Aesthetic Modeling Based on Deep Learning                                    
 July 2017 – Feb 2018
 ```
 Advisor: Jia Jia, Associate Professor, Dept. Computer Science & Technology, THU
 
-•	Discussed how different parameters and structures in Deep Learning could affect the outcome of the modeling between aesthetic styles and clothing features. By comparison chose the best parameters of the model and analyzed different styles of different categories’ clothing in shopping websites. 
+• Discussed how different parameters and structures in Deep Learning could affect the outcome of the modeling between aesthetic styles and clothing features. By comparison chose the best parameters of the model and analyzed different styles of different categories’ clothing in shopping websites. 
 ```
 
 ### PUBLICATIONS
