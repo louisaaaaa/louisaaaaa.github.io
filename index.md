@@ -6,9 +6,12 @@
 <img src ="/files/IMG_3689.jpg" width = "250" >
  <!-- ![image](/files/IMG_3689.jpg) -->
 </div>
-<br />I am a senior undergraduate student in computer science at Tsinghua University, currently working in the Pervasive Human Computer Interaction Laboratory.
+<br />Bachelor of Engineering in Computer Science, Tsinghua University (THU) 			|				 Aug 2018 - Jul 2022
+<br />GIX Dual Degree (Master of Engineering & Technology Innovation), THU & University of Washington   |	  Sep 2022 - Dec 2024
 
-contacts: louisa.shi@gmail.com | luo_ys18@mails.tsinghua.edu.cn 
+
+contacts: louisa.shi@gmail.com | (510) 327-9259
+
 
 ### RESEARCH EXPERIENCE
 
